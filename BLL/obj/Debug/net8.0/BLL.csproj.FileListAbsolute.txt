@@ -1,0 +1,12 @@
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/bin/Debug/net8.0/BLL.deps.json
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/bin/Debug/net8.0/BLL.dll
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/bin/Debug/net8.0/BLL.pdb
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/obj/Debug/net8.0/BLL.csproj.AssemblyReference.cache
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/obj/Debug/net8.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/obj/Debug/net8.0/BLL.csproj.CoreCompileInputs.cache
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/obj/Debug/net8.0/BLL.dll
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/obj/Debug/net8.0/refint/BLL.dll
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/obj/Debug/net8.0/BLL.pdb
+/Users/ayseerkan/Desktop/Rider Sols/MVC/BLL/obj/Debug/net8.0/ref/BLL.dll
